@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_action_overflow.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    }
+]

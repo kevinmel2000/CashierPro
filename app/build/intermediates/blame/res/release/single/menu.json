@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\detail_menu.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

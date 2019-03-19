@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\ezeelinkindonesia\.android\build-cache\81d72bc4790c9dc09e54b09887d73029d334014c\output\assets"/></dataSet><dataSet config="main"><source path="D:\AndroidPOS\pos-master (1)\pos-master\app\src\main\assets"/><source path="D:\AndroidPOS\pos-master (1)\pos-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\AndroidPOS\pos-master (1)\pos-master\app\src\debug\assets"/></dataSet></merger>

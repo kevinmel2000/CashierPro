@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_inventory.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_inventory.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\listview_stock.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\listview_stock.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\listview_inventory.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\listview_inventory.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_paymentsuccession.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\dialog_paymentsuccession.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_main.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_saleedit.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\dialog_saleedit.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_splashscreen.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_splashscreen.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_productdetail_stock.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_productdetail_stock.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_report.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_report.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_addproduct.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_addproduct.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\listview_report.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\listview_report.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_payment.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_saledetail.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_saledetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_sale.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_sale.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\listview_lineitem.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\listview_lineitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_productdetail_detail.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_productdetail_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_addproductlot.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_addproductlot.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_productdetail_main.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\layout\\layout_productdetail_main.xml"
+    }
+]

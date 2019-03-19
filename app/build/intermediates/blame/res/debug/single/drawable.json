@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launch2.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\ic_launch2.png"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_purple.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_logo.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\refresh_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_logo_low.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\refresh_logo_low.png"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_black.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_black.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yellow.xml",
+        "source": "D:\\AndroidPOS\\pos-master (1)\\pos-master\\app\\src\\main\\res\\drawable\\btn_yellow.xml"
+    }
+]
